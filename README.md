@@ -1,6 +1,6 @@
 # Carbonomics
   # Tentang Platform
-  GDPEmission merupakan sebuah project platform web yang dirancang untuk   menganalisa korelasi antara GDP dan Emisi Karbon di seluruh negara. Project ini bertujuan untuk mempermudah analisis korelasi kedua variable tersebut serta melihat tren yang terjadi.
+  Carbonomics merupakan sebuah project platform web yang dirancang untuk   menganalisa korelasi antara GDP dan Emisi Karbon di seluruh negara. Project ini bertujuan untuk mempermudah analisis korelasi kedua variable tersebut serta melihat tren yang terjadi.
 
   # Fitur Utama
   - **Peta Dunia**: Heatmap emisi karbon dalam Ton mempermudah observasi. Pengguna dapat meng-*hover* mouse untuk langsung melihat data emisi negara
